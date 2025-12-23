@@ -11,4 +11,4 @@ Download;
   pip3 install colorama
   python3 main.py
 
-![image]()
+![image](https://github.com/forbidden403-lt/cPanel-BruteForce/blob/main/cPanel-BruteForce.png)
